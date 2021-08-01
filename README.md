@@ -13,9 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://graysonmcclead.com/](https://graysonmcclead.com/)
 
-- 📝 I regularly write articles on [https://graysonmcclead.com/](https://graysonmcclead.com/)
-
-- 💬 Ask me about **React, JS, Express**
+- 💬 Ask me about **React, JS, Express, Unity, Game Design**
 
 - 📫 How to reach me **elgrayso@gmail.com**
 
