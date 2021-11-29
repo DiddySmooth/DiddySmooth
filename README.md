@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diddysmooth&label=Profile%20views&color=0e75b6&style=flat" alt="diddysmooth" /> </p>
 
-- 🔭 I’m currently working on [DM-ToolKit.](https://github.com/DiddySmooth/VirtualTableTopFrontEnd)
+- 🔭 I’m currently working on [DM-ToolKit.](https://github.com/DiddySmooth/DM-Helper-Front)
 
 - 📫 How to reach me **elgrayso@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1GdeY1W074ZOe3cF5GLUbiI5IuaxvSW5TDUacEZqGU1Y/edit?usp=sharing](https://docs.google.com/document/d/1GdeY1W074ZOe3cF5GLUbiI5IuaxvSW5TDUacEZqGU1Y/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
