@@ -3,17 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diddysmooth&label=Profile%20views&color=0e75b6&style=flat" alt="diddysmooth" /> </p>
 
-- 🔭 I’m currently working on [A virtual table top project.](https://github.com/DiddySmooth/VirtualTableTopFrontEnd)
-
-- 🌱 I’m currently learning **Electron and Socket.io**
-
-- 👯 I’m looking to collaborate on [A virtual table top project.](https://github.com/DiddySmooth/VirtualTableTopFrontEnd)
-
-- 🤝 I’m looking for help with [A virtual table top project.](https://github.com/DiddySmooth/VirtualTableTopFrontEnd)
-
-- 👨‍💻 All of my projects are available at [https://graysonmcclead.com/](https://graysonmcclead.com/)
-
-- 💬 Ask me about **React, JS, Express, Unity, Game Design**
+- 🔭 I’m currently working on [DM-ToolKit.](https://github.com/DiddySmooth/VirtualTableTopFrontEnd)
 
 - 📫 How to reach me **elgrayso@gmail.com**
 
